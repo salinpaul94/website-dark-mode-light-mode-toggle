@@ -14,3 +14,7 @@
   width: 200px;
   cursor: pointer;
 }
+
+body {
+  background: var(--primary-color);
+}
