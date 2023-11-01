@@ -4,3 +4,8 @@
   font-family: sans-serif;
   box-sizing: border-box;
 }
+
+#icon {
+  width: 200px;
+  cursor: pointer;
+}
