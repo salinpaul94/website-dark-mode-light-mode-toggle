@@ -10,6 +10,11 @@
   --secondary-color: #212121;
 }
 
+.dark-theme {
+  --primary-color: #212121;
+  --secondary-color: #eaeed4;
+}
+
 
 #icon {
   width: 200px;
